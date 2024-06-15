@@ -9,7 +9,7 @@ Before you begin, ensure you have the following prerequisites:
 ## Installation
 * Clone or download the repository to your local machine.
 ```bash
-git clone https://github.com/EmrNITK/Ping-Pong
+git clone (https://github.com/maneeya01/Hand-detection-using-opencv)
 ```
 * Navigate to the project directory.
 ```bash
